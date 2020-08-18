@@ -1,16 +1,13 @@
 import React from "react";
 import { Route } from "react-router-dom";
-import App from "../components/App";
-import Posts from "../components/Posts";
-import Header from "../header";
+
+import Home from "../pages/home";
 
 class ReactRouter extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <Header />
-        <Route exact path="/" component={App} />
-        <Route  path="/posts" component={Posts} />
+        <Route exact path="/" component={Home} />
       </React.Fragment>
     );
   }
