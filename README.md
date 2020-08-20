@@ -7,3 +7,7 @@
 ## npm install
 
 to install dependencies
+
+## run app
+
+`npm start`
