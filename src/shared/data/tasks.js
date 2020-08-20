@@ -4,12 +4,30 @@ export const TASK_LISTS = [
     sub_title: "Providers",
     cards: [
       {
-        img_url: "https://s.ndtvimg.com/images/entities/300/ms-dhoni-700.png",
+        img_url: "http://placehold.it/40x40",
         title: {
-          text: "Georgio",
+          text: "Rosanne",
           color: "#008080",
         },
-        sub_title: "Gyntra",
+        sub_title: "Madden",
+        btns: [
+          {
+            text: "HEIDLIKA",
+            color: "#ff7171",
+          },
+          {
+            text: "EVENTS",
+            color: "#40bad5",
+          },
+        ],
+      },
+      {
+        img_url: "http://placehold.it/40x40",
+        title: {
+          text: "Noel",
+          color: "#99223e",
+        },
+        sub_title: "Levine",
         btns: [
           {
             text: "HEIDLIKA",
@@ -24,10 +42,28 @@ export const TASK_LISTS = [
       {
         img_url: "",
         title: {
-          text: "Swatantra",
+          text: "Allen",
           color: "#008080",
         },
-        sub_title: "Gyntra",
+        sub_title: "Wade",
+        btns: [
+          {
+            text: "HEIDLIKA",
+            color: "#ff7171",
+          },
+          {
+            text: "EVENTS",
+            color: "#40bad5",
+          },
+        ],
+      },
+      {
+        img_url: "http://placehold.it/40x40",
+        title: {
+          text: "Harding",
+          color: "#99223e",
+        },
+        sub_title: "Walls",
         btns: [
           {
             text: "HEIDLIKA",
@@ -46,12 +82,12 @@ export const TASK_LISTS = [
     sub_title: "Providers",
     cards: [
       {
-        img_url: "https://s.ndtvimg.com/images/entities/300/ms-dhoni-700.png",
+        img_url: "",
         title: {
-          text: "Georgio",
-          color: "#008080",
+          text: "Jefferson",
+          color: "#abacab",
         },
-        sub_title: "Swapnil",
+        sub_title: "Simmons",
         btns: [
           {
             text: "HEIDLIKA",
@@ -64,12 +100,12 @@ export const TASK_LISTS = [
         ],
       },
       {
-        img_url: "",
+        img_url: "http://placehold.it/40x40",
         title: {
-          text: "Michle",
+          text: "Holder",
           color: "#146683",
         },
-        sub_title: "Swapnil",
+        sub_title: "Hendricks",
         btns: [
           {
             text: "HEIDLIKA",
@@ -88,12 +124,12 @@ export const TASK_LISTS = [
     sub_title: "Providers",
     cards: [
       {
-        img_url: "https://s.ndtvimg.com/images/entities/300/ms-dhoni-700.png",
+        img_url: "http://placehold.it/40x40",
         title: {
-          text: "Georgio",
-          color: "#146683",
+          text: "Cruz",
+          color: "#99223e",
         },
-        sub_title: "Swapnil",
+        sub_title: "Forbes",
         btns: [
           {
             text: "HEIDLIKA",
@@ -106,12 +142,12 @@ export const TASK_LISTS = [
         ],
       },
       {
-        img_url: "",
+        img_url: "http://placehold.it/40x40",
         title: {
-          text: "Michle",
-          color: "#146683",
+          text: "Mabel",
+          color: "#abacab",
         },
-        sub_title: "Swapnil",
+        sub_title: "Hendricks",
         btns: [
           {
             text: "HEIDLIKA",
@@ -130,66 +166,12 @@ export const TASK_LISTS = [
     sub_title: "Providers",
     cards: [
       {
-        img_url: "https://s.ndtvimg.com/images/entities/300/ms-dhoni-700.png",
-        title: {
-          text: "Georgio Mist",
-          color: "#146683",
-        },
-        sub_title: "Swapnil",
-        btns: [
-          {
-            text: "HEIDLIKA",
-            color: "#ff7171",
-          },
-          {
-            text: "EVENTS",
-            color: "#40bad5",
-          },
-        ],
-      },
-      {
         img_url: "",
         title: {
-          text: "Michle",
-          color: "#146683",
+          text: "Kay",
+          color: "#99223e",
         },
-        sub_title: "Swapnil",
-        btns: [
-          {
-            text: "HEIDLIKA",
-            color: "#ff7171",
-          },
-          {
-            text: "EVENTS",
-            color: "#40bad5",
-          },
-        ],
-      },
-      {
-        img_url: "https://s.ndtvimg.com/images/entities/300/ms-dhoni-700.png",
-        title: {
-          text: "Georgio Mist",
-          color: "#146683",
-        },
-        sub_title: "Swapnil",
-        btns: [
-          {
-            text: "HEIDLIKA",
-            color: "#ff7171",
-          },
-          {
-            text: "EVENTS",
-            color: "#40bad5",
-          },
-        ],
-      },
-      {
-        img_url: "",
-        title: {
-          text: "Michle",
-          color: "#abacab",
-        },
-        sub_title: "Swapnil",
+        sub_title: "Good",
         btns: [
           {
             text: "HEIDLIKA",
