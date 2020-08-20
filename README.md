@@ -1,15 +1,9 @@
-# React Router Dom v4.2.2 boiler plate
+# SpaceJoy Assignment
 
-## Active link styles are also added
-easy to use for your next project
+## Will add image file
 
-
-## Header is also included
-and splitted in separate files
-
-
+!!coming soon
 
 ## npm install
- to install dependencies
 
-
+to install dependencies
