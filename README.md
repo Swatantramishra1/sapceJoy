@@ -1,4 +1,6 @@
-# Swatantra Assigment - Space Joy(https://www.spacejoy.com/)
+# Space Joy(https://www.spacejoy.com/)
+
+## Assignment
 
 We had a sketch ready which needed to design.
 
