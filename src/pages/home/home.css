@@ -1,0 +1,27 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-color: #aeaeae2e;
+  overflow-x: hidden;
+}
+
+.mainBody {
+  padding: 24px 16px;
+}
+
+.left > .search {
+  width: 20vw;
+}
+
+.fontIcon {
+  font-size: 20px;
+  color: #aeaeae;
+}
+
+.tasks-container {
+  width: 24%;
+}
+
+.tasks-container:drop {
+  background-color: red;
+}

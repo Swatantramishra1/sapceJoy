@@ -1,0 +1,26 @@
+.card-container {
+  margin-top: 12px;
+  padding: 16px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px 0px #00000036;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 300px;
+  max-width: 400px;
+}
+
+.card_title {
+  color: red;
+}
+
+.nameIcon {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  color: white;
+}

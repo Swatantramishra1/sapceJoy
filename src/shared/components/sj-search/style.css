@@ -1,0 +1,32 @@
+.search-box-container {
+  width: 100%;
+}
+
+.search-box-container input {
+  width: 100%;
+  padding: 5px 35px 5px 6px;
+  border: none;
+}
+
+input[type="text"] {
+  font-size: 12px;
+}
+
+.searchIcon {
+  color: #aeaeae;
+  position: absolute;
+  right: 18px;
+}
+
+.searchBottomBorder {
+  border-bottom: 1px solid #aeaeae;
+}
+
+.searchBorder {
+  border: 1px solid #aeaeae7a;
+  border-radius: 25px;
+  padding: 6px;
+  background-color: white;
+  position: relative;
+  width: 100%;
+}

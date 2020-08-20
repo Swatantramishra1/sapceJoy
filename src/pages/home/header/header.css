@@ -1,5 +1,14 @@
 .header {
   height: 50px;
-  background-color: gray;
-  padding: 0 8px;
+  background-color: #ffffff;
+  padding: 0 16px;
+  box-shadow: 0 2px #80808021;
+}
+
+.icon {
+  color: #aeaeae;
+}
+
+.search {
+  width: 20vw;
 }

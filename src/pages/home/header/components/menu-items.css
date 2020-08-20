@@ -1,0 +1,10 @@
+.active {
+  position: relative;
+}
+
+.active > .bar {
+  border-bottom: 2px solid #ff6f58;
+  position: absolute;
+  width: 100%;
+  bottom: -18px;
+}
