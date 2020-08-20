@@ -4,9 +4,9 @@
 
 !!coming soon
 
-## npm install
+## Install dependencies
 
-to install dependencies
+`npm install`
 
 ## run app
 
