@@ -6,16 +6,12 @@ import { faBell } from "@fortawesome/free-solid-svg-icons";
 import SjText from "../sj-text";
 import SjButton from "../sj-button";
 
-import { NAME_ICON_BG_COLORS, COLORS } from "../../data/colors";
+import { COLORS } from "../../data/colors";
 import getNestedValue from "../../services/utill.service";
 
 import "./style.css";
 class SjCard extends Component {
   render() {
-    const color =
-      NAME_ICON_BG_COLORS[
-        Math.floor(Math.random() * NAME_ICON_BG_COLORS.length)
-      ];
     let btns = "";
 
     if (this.props.card && this.props.card.btns) {
@@ -38,7 +34,7 @@ class SjCard extends Component {
           <div className="row row-top">
             {imageUrl ? (
               <div className="image">
-                <img src={imageUrl} key="1"></img>
+                <img src={imageUrl} key="1" alt="demo"></img>
               </div>
             ) : (
               <div

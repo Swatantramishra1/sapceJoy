@@ -73,6 +73,8 @@ class SjTaskList extends Component {
             <SjCard card={card} index={index} key={`card` + index}></SjCard>
           </div>
         );
+      } else {
+        return null;
       }
     });
 

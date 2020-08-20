@@ -6,7 +6,7 @@ import "./style.css";
 class SjImageLap extends Component {
   render() {
     const items = IMAGE_DATA.map((url, index) => (
-      <img src={url} key={index}></img>
+      <img src={url} key={index} alt="demo"></img>
     ));
     return <div className={`row search-box-container`}>{items}</div>;
   }

@@ -27,7 +27,7 @@ class Home extends Component {
     const oldCard = this.state.tasks[taskListIndex].cards[cardIndex];
 
     let cards = this.state.tasks[taskListIndex].cards.filter(
-      (card, index) => index != cardIndex
+      (card, index) => index !== cardIndex
     );
 
     this.state.tasks[taskListIndex].cards = cards;
