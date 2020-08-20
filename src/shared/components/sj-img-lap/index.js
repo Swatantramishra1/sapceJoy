@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
-import "./style.css";
 import { IMAGE_DATA } from "../../data/image_data";
+import "./style.css";
 
 class SjImageLap extends Component {
   render() {

@@ -7,12 +7,13 @@ import {
   faPlusCircle,
 } from "@fortawesome/free-solid-svg-icons";
 
-import "./style.css";
 import SjText from "../sj-text";
 import SjCard from "../sj-card";
 import SjAddItemModal from "../sj-addItemModal";
+
 import { TASK_LISTS } from "../../data/tasks";
 
+import "./style.css";
 class SjTaskList extends Component {
   onDragStart = (ev, id) => {
     ev.dataTransfer.setData("id", id);

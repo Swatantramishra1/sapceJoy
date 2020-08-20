@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faBars,
@@ -7,13 +8,12 @@ import {
   faEllipsisV,
 } from "@fortawesome/free-solid-svg-icons";
 
-import "./header.css";
-
 import SjText from "../../../shared/components/sj-text";
 import SjSearch from "../../../shared/components/sj-search";
 
 import MenuItems from "./components/menu-items";
 
+import "./header.css";
 class Header extends Component {
   render() {
     return (

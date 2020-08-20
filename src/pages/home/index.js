@@ -1,15 +1,16 @@
 import React, { Component } from "react";
-import Header from "./header/header";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCog } from "@fortawesome/free-solid-svg-icons";
 
+import Header from "./header/header";
+
 import SjSearch from "../../shared/components/sj-search";
-import "./home.css";
 import SjImageLap from "../../shared/components/sj-img-lap";
 import SjTaskList from "../../shared/components/sj-taskList";
 import { TASK_LISTS } from "../../shared/data/tasks";
 
+import "./home.css";
 class Home extends Component {
   state = {
     tasks: TASK_LISTS,

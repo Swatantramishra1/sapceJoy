@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
-import "./style.css";
 import SjText from "../sj-text";
+import "./style.css";
 
 class SjAddItemModal extends Component {
   constructor(props) {

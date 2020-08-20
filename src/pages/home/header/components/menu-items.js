@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 
-import "./menu-items.css";
 import SjText from "../../../../shared/components/sj-text";
 
+import "./menu-items.css";
 class MenuItems extends Component {
   render() {
     return (

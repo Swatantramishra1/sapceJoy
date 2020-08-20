@@ -3,13 +3,13 @@ import React, { Component } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBell } from "@fortawesome/free-solid-svg-icons";
 
-import "./style.css";
 import SjText from "../sj-text";
 import SjButton from "../sj-button";
 
-import { NAME_ICON_BG_COLORS, COLORS, BTNS_COLOR } from "../../data/colors";
+import { NAME_ICON_BG_COLORS, COLORS } from "../../data/colors";
 import getNestedValue from "../../services/utill.service";
 
+import "./style.css";
 class SjCard extends Component {
   render() {
     const color =
