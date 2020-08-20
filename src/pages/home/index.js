@@ -23,7 +23,7 @@ class Home extends Component {
   onDrop = (ev, index) => {
     let id = ev.dataTransfer.getData("id");
     const taskListIndex = id.split("-")[0];
-    const cardIndex = id.split("-")[1];
+    const cardIndex = Number(id.split("-")[1]);
     const oldCard = this.state.tasks[taskListIndex].cards[cardIndex];
 
     let cards = this.state.tasks[taskListIndex].cards.filter(
