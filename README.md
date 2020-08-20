@@ -2,7 +2,7 @@
 
 We had a sketch ready which needed to design.
 
-- Can add task using ## Add component ##
+- Can add task using ## Add new item ##
 - Can drag and drop between sections
 - Only for Desktop support added
 
