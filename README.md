@@ -8,12 +8,12 @@ We had a sketch ready which needed to design.
 - Can drag and drop between sections
 - Only for Desktop support added
 
-# Coming Features ( If needed )!
+# Coming Features ( WIP )!
 
 - Implement search functionality
 - Use data from store ( manipulating array current)
 
-We can also implement (If needed ):
+We can also implement ( WIP ):
 
 - Responsive app through out all devices
 
@@ -57,7 +57,8 @@ Used plugins are
 ### Todos
 
 - Responsive
-- Search functionality
+- Search functionality in tasks section
+- Image uploader
 
 ## License
 
