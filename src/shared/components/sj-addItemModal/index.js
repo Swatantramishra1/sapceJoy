@@ -71,11 +71,11 @@ class SjAddItemModal extends Component {
             <div className="divider24" />
 
             <div className="column col-left">
-              <label> Sub title </label>
+              <label> SubTitle </label>
               <div className="divider8" />
               <input
                 type="text"
-                placeholder="Enter item sub title"
+                placeholder="Enter item subTitle"
                 onKeyUp={(e) =>
                   this.handleUpdateState("subTitle", e.target.value)
                 }

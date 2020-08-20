@@ -33,13 +33,17 @@ class Header extends Component {
 
           <div className="spacer32"></div>
           <div className="spacer12"></div>
+
           <FontAwesomeIcon className="icon" icon={faUserPlus} />
+
           <div className="spacer32"></div>
           <div className="spacer12"></div>
+
           <FontAwesomeIcon className="icon" icon={faBell} />
 
           <div className="spacer32"></div>
           <div className="spacer12"></div>
+
           <FontAwesomeIcon className="icon" icon={faEllipsisV} />
         </div>
       </div>

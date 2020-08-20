@@ -39,6 +39,7 @@ class Home extends Component {
       ...this.state,
     });
   };
+
   render() {
     const taskList = this.state.tasks.map((item, index) => {
       return (
@@ -47,7 +48,7 @@ class Home extends Component {
           onDrop={(e) => {
             this.onDrop(e, `${index}`);
           }}
-          className="tasks-container"
+          className="tasks-container dropzone"
         >
           <SjTaskList
             item={item}
