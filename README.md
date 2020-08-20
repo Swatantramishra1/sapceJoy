@@ -60,3 +60,9 @@ Used plugins are
 ## License
 
 SWATANTRA!
+
+## Link for demo purpose
+
+https://zealous-jepsen-da792a.netlify.app/
+
+### cheers 🥳
