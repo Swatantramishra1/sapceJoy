@@ -47,10 +47,10 @@ $ npm run build
 
 Used plugins are
 
-| Plugin      | README                                                                         |
-| ----------- | ------------------------------------------------------------------------------ |
-| fortawesome | [https://github.com/FortAwesome/react-fontawesome/blob/master/README.md][pldb] |
-| node-sass   | [https://github.com/sass/node-sass/blob/master/README.md][plgh]                |
+| Plugin      | README                                                                 |
+| ----------- | ---------------------------------------------------------------------- |
+| fortawesome | https://github.com/FortAwesome/react-fontawesome/blob/master/README.md |
+| node-sass   | https://github.com/sass/node-sass/blob/master/README.md                |
 
 ### Todos
 
